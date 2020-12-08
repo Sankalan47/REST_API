@@ -1,0 +1,20 @@
+#here I tried out how to use apis and what they deliver . You can uncomment these lines and try it out 1
+# you need to install RESTful Client extension on VSCode or use application like Postman to try these.
+#Happy Coding!
+
+
+
+
+# GET https://reqres.in/api/users̥̥
+#the api request was found from reqres.in
+
+# OPTIONS https://developer.wordpress.org/rest-api/reference/posts/
+
+# According to Fielding's representation, REST components perform actions on a resource by using a representation to capture the current or intended state of that resource and transferring that representation between components
+
+# HEAD https://www.youtube.com/
+
+# GET http://www.visualboxsite.com/#
+#you can fetch more desired data by adding queries using '?' method
+
+#you can change the data by requesting a POST request for that you have to have the authorization to change or replace data and declare the content type and the data you want to replace as a format of a JSON file
